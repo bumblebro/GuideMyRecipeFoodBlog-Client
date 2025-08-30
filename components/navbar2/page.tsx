@@ -254,7 +254,7 @@ function Navbar2({
               <h1
                 className={`uppercase font-[650] tracking-[4px] text-3xl   lg:text-[1.7rem] xl:text-[1.7rem] text-center text-[#000000] ${freightbig.className}`}
               >
-                WordofMany
+                GuideMyRecipe
               </h1>
             </Link>
           </div>

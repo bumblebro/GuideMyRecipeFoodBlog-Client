@@ -10,7 +10,7 @@ const templates = [
     )}
     <div tw="flex flex-col items-center bg-white px-8 py-6 rounded-lg shadow-lg border border-gray-200">
       <div tw="flex text-7xl font-extrabold text-black ">{title}</div>
-      <div tw="flex text-xl font-medium mt-3 text-gray-800">WordofMany</div>
+      <div tw="flex text-xl font-medium mt-3 text-gray-800">GuideMyRecipe</div>
     </div>
   </div>,
   <div key={"3"} tw="w-full h-full flex items-center justify-center relative">
@@ -24,7 +24,7 @@ const templates = [
     )}
     <div tw="flex flex-col items-center bg-blue-800 bg-opacity-80 px-10 py-8 rounded-lg shadow-2xl">
       <div tw="flex text-6xl font-bold text-white">{title}</div>
-      <div tw="flex text-2xl font-semibold mt-3 text-white">WordofMany</div>
+      <div tw="flex text-2xl font-semibold mt-3 text-white">GuideMyRecipe</div>
     </div>
   </div>,
   <div key={"4"} tw="w-full h-full flex relative">
@@ -41,7 +41,7 @@ const templates = [
         <div tw="flex text-4xl font-bold text-white">{title}</div>
       </div>
       <div tw="flex justify-center items-center bg-gray-900 px-4 py-2">
-        <div tw="flex text-2xl font-semibold text-white">WordofMany</div>
+        <div tw="flex text-2xl font-semibold text-white">GuideMyRecipe</div>
       </div>
     </div>
   </div>,
@@ -59,7 +59,7 @@ const templates = [
       style={{ zIndex: 2 }}
     >
       <div tw="flex text-8xl font-bold text-white">{title}</div>
-      <div tw="flex text-2xl font-semibold mt-2 text-white">WordofMany</div>
+      <div tw="flex text-2xl font-semibold mt-2 text-white">GuideMyRecipe</div>
     </div>
   </div>,
   // <div key={"6"} tw="w-full h-full flex relative overflow-hidden">
@@ -81,7 +81,7 @@ const templates = [
   //     }}
   //   >
   //     <div tw="flex text-8xl font-bold text-white">{title}</div>
-  //     <div tw="flex text-2xl font-semibold mt-2 text-white">WordofMany</div>
+  //     <div tw="flex text-2xl font-semibold mt-2 text-white">GuideMyRecipe</div>
   //   </div>
   // </div>,
   <div key={"7"} tw="w-full h-full flex relative overflow-hidden">
@@ -96,7 +96,9 @@ const templates = [
     <div tw="absolute inset-0 flex items-center justify-center">
       <div tw="flex flex-col items-center bg-black bg-opacity-80 px-8 py-4 rounded-lg border border-gray-700">
         <div tw="flex text-8xl font-bold text-white">{title}</div>
-        <div tw="flex text-2xl font-semibold mt-2 text-white">WordofMany</div>
+        <div tw="flex text-2xl font-semibold mt-2 text-white">
+          GuideMyRecipe
+        </div>
       </div>
     </div>
   </div>,
@@ -113,7 +115,7 @@ const templates = [
       <div tw="flex flex-col items-start bg-black bg-opacity-70 px-8 py-6 rounded-md border border-gray-700 shadow-lg max-w-3xl">
         <div tw="text-4xl font-bold text-white break-words">{title}</div>
         <div tw="text-xl font-semibold text-white break-words mt-2">
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -133,7 +135,7 @@ const templates = [
           {title}
         </div>
         <div tw="flex text-2xl font-semibold text-black text-center mt-4 break-words">
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -153,7 +155,7 @@ const templates = [
           {title}
         </div>
         <div tw="flex text-2xl font-semibold text-white text-center mt-2 break-words">
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -173,7 +175,7 @@ const templates = [
           {title}
         </div>
         <div tw="flex text-2xl font-semibold text-white text-center mt-2 break-words">
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -193,7 +195,7 @@ const templates = [
       </div>
       <div tw="flex bg-black bg-opacity-80 px-6 py-2 rounded-md mt-4">
         <div tw="flex text-2xl font-semibold text-white break-words">
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -214,7 +216,7 @@ const templates = [
       <div tw="flex flex-col items-center bg-black px-8 py-6 rounded-r-lg">
         <div tw="flex text-5xl font-bold text-white break-words">{title}</div>
         <div tw="flex text-2xl font-semibold text-white break-words mt-2">
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -235,7 +237,7 @@ const templates = [
       <div tw="flex flex-col items-center bg-green-800 px-10 py-6 rounded-xl">
         <div tw="flex text-5xl font-bold text-white break-words">{title}</div>
         <div tw="flex text-2xl font-semibold text-white mt-2 break-words">
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -256,7 +258,7 @@ const templates = [
       <div tw="flex flex-col items-start bg-black bg-opacity-80 px-8 py-6 rounded-md transform rotate-[-3deg]">
         <div tw="flex text-5xl font-bold text-white break-words">{title}</div>
         <div tw="flex text-2xl font-semibold text-white mt-2 break-words">
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -277,7 +279,7 @@ const templates = [
       <div tw="flex flex-col items-center bg-black bg-opacity-80 px-8 py-6 rounded-t-3xl">
         <div tw="flex text-5xl font-bold text-white break-words">{title}</div>
         <div tw="flex text-2xl font-semibold text-white mt-2 break-words">
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -309,7 +311,7 @@ const templates = [
           tw="flex text-2xl font-semibold text-white mt-2"
           style={{ display: "flex" }}
         >
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -341,7 +343,7 @@ const templates = [
           tw="flex text-2xl font-semibold text-white mt-2"
           style={{ display: "flex" }}
         >
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -373,7 +375,7 @@ const templates = [
           tw="flex text-2xl font-semibold text-white mt-2 break-words"
           style={{ display: "flex" }}
         >
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -410,7 +412,7 @@ const templates = [
           tw="flex text-2xl font-semibold text-white mt-2 break-words"
           style={{ display: "flex" }}
         >
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -442,7 +444,7 @@ const templates = [
           tw="flex text-2xl font-semibold text-white mt-2 break-words"
           style={{ display: "flex", transform: "skewX(10deg)" }}
         >
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -479,7 +481,7 @@ const templates = [
           tw="flex text-2xl font-semibold text-black mt-2 break-words"
           style={{ display: "flex" }}
         >
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -517,7 +519,7 @@ const templates = [
           tw="flex text-2xl font-semibold text-white mt-2 break-words"
           style={{ display: "flex" }}
         >
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -546,7 +548,7 @@ const templates = [
           tw="flex text-2xl font-semibold text-white mt-2 break-words"
           style={{ display: "flex" }}
         >
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -587,7 +589,7 @@ const templates = [
             tw="flex text-2xl font-semibold text-white mt-2 break-words"
             style={{ display: "flex" }}
           >
-            WordofMany
+            GuideMyRecipe
           </div>
         </div>
       </div>
@@ -620,7 +622,7 @@ const templates = [
           tw="flex text-2xl font-semibold text-white mt-3"
           style={{ display: "flex" }}
         >
-          WordofMany
+          GuideMyRecipe
         </div>
       </div>
     </div>
@@ -648,7 +650,7 @@ const templates = [
         tw="flex text-2xl font-semibold text-white mt-3 px-6 py-2 bg-blue-900 rounded-lg shadow-lg"
         style={{ display: "flex", transform: "rotate(5deg)" }}
       >
-        WordofMany
+        GuideMyRecipe
       </div>
     </div>
   </div>,

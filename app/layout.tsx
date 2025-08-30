@@ -17,11 +17,11 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   metadataBase: new URL(`${process.env.NEXT_PUBLIC_BASE_API_URL}`),
   title: {
-    default: "WordofMany",
-    template: "%s | WordofMany",
+    default: "GuideMyRecipe",
+    template: "%s | GuideMyRecipe",
   },
   description:
-    "Discover WordofMany, your go-to platform for the latest trends in food and drink. Explore a world of culinary delights and beverage innovations from around the globe.",
+    "Discover GuideMyRecipe, your go-to platform for the latest trends in food and drink. Explore a world of culinary delights and beverage innovations from around the globe.",
   twitter: {
     card: "summary_large_image",
   },
@@ -47,7 +47,7 @@ export default function RootLayout({
             strategy="afterInteractive"
           ></Script>
         )} */}
-       <AdsenseScript /> 
+        <AdsenseScript />
         {/* <script
           data-grow-initializer=""
           dangerouslySetInnerHTML={{
@@ -82,7 +82,7 @@ export default function RootLayout({
         <GoogleAnalytics gaId="G-GR0NLTCFVB" />
       )}
 
-{/*       <GoogleAnalytics gaId="G-GR0NLTCFVB" /> */}
+      {/*       <GoogleAnalytics gaId="G-GR0NLTCFVB" /> */}
     </html>
   );
 }

@@ -17,9 +17,9 @@ function page() {
       <p>Last updated: 2025-02-10</p>
       <p className="text-lg font-semibold">Website Disclaimer</p>
       <p>
-        The information provided by <b>WordofMany</b> (“Company”, “we”, “our”,
-        “us”) on
-        <b> https://www.WordofMany.com</b> (the “Site”) is for general
+        The information provided by <b>GuideMyRecipe</b> (“Company”, “we”,
+        “our”, “us”) on
+        <b> https://www.GuideMyRecipe.com</b> (the “Site”) is for general
         informational purposes only. All information on the Site is provided in
         good faith, however we make no representation or warranty of any kind,
         express or implied, regarding the accuracy, adequacy, validity,
@@ -71,8 +71,8 @@ function page() {
         professionals.
       </p>
       <p>
-        Content published on <b>https://www.WordofMany.com</b> is intended for
-        informational purposes only. It is important to perform your own
+        Content published on <b>https://www.GuideMyRecipe.com</b> is intended
+        for informational purposes only. It is important to perform your own
         analysis before making any decisions based on your personal
         circumstances. You should take independent advice from a professional or
         independently research and verify any information you find on our
@@ -87,14 +87,14 @@ function page() {
       </p>
       <p>
         While we make every effort to ensure that the information provided on
-        this site is accurate and reliable, <b>WordofMany</b> is not responsible
-        for any errors, omissions, or the outcomes of actions based on the
-        information provided. All information is provided “as is,” without any
-        warranty of completeness, accuracy, timeliness, or of the results
-        obtained from the use of this information.
+        this site is accurate and reliable, <b>GuideMyRecipe</b> is not
+        responsible for any errors, omissions, or the outcomes of actions based
+        on the information provided. All information is provided “as is,”
+        without any warranty of completeness, accuracy, timeliness, or of the
+        results obtained from the use of this information.
       </p>
       <p>
-        In no event will <b>WordofMany</b> or its employees be liable for any
+        In no event will <b>GuideMyRecipe</b> or its employees be liable for any
         decision made or action taken in reliance on the information provided,
         nor for any consequential, special, or similar damages, even if advised
         of the possibility of such damages.
@@ -104,15 +104,15 @@ function page() {
       </p>
       <p>
         All logos and trademarks of third parties referenced on{" "}
-        <b>https://www.WordofMany.com</b> are the trademarks and logos of their
-        respective owners. Any inclusion of such trademarks or logos does not
-        imply any endorsement or affiliation by <b>WordofMany</b>.
+        <b>https://www.GuideMyRecipe.com</b> are the trademarks and logos of
+        their respective owners. Any inclusion of such trademarks or logos does
+        not imply any endorsement or affiliation by <b>GuideMyRecipe</b>.
       </p>
       <p className="text-lg font-semibold capitalize">Contact Us</p>
       <p>
         Should you have any feedback, comments, requests for technical support,
         or other inquiries, please contact us by email:{" "}
-        <b>WordofMany@gmail.com</b>.
+        <b>GuideMyRecipe@gmail.com</b>.
       </p>
     </div>
   );

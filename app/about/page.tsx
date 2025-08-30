@@ -45,11 +45,11 @@ function page() {
           <h1
             className={`text-3xl font-extrabold pb-6 ${Poppins700.className}`}
           >
-            About WordofMany
+            About GuideMyRecipe
           </h1>
           <p className="mb-4">By Shreyas M S</p>
           <p className="mb-4">
-            Hey there, food lover! Welcome to <strong>WordofMany</strong>, a
+            Hey there, food lover! Welcome to <strong>GuideMyRecipe</strong>, a
             personal project crafted with love, passion, and a pinch of spice.
           </p>
           <p className="mb-4">
@@ -60,7 +60,7 @@ function page() {
             ALL THE RECIPES YOU&rsquo;LL EVER NEED. PERIOD.
           </h2>
           <p className="mb-4">
-            WordofMany is my personal space where I share tried-and-tested
+            GuideMyRecipe is my personal space where I share tried-and-tested
             recipes, flavorful ideas, and a taste of my kitchen experiments.
             Here&rsquo;s what you can expect:
           </p>
@@ -76,8 +76,8 @@ function page() {
           </ul>
           <p className="mb-4">
             Whether you&rsquo;re a beginner in the kitchen or someone who enjoys
-            experimenting with flavors, WordofMany is here to make your cooking
-            journey fun and flavorful. Explore the{" "}
+            experimenting with flavors, GuideMyRecipe is here to make your
+            cooking journey fun and flavorful. Explore the{" "}
             <strong>Recipes Section</strong> and find your next favorite dish.
           </p>
           <p className="mb-4">
@@ -91,13 +91,13 @@ function page() {
               <a
                 rel="noopener"
                 className="underline"
-                href="mailto:WordofMany13@gmail.com"
+                href="mailto:GuideMyRecipe13@gmail.com"
               >
-                WordofMany13@gmail.com
+                GuideMyRecipe13@gmail.com
               </a>
             </li>
-            
-              {/* <li>📘 <strong>Facebook:</strong> <a  rel="noopener"
+
+            {/* <li>📘 <strong>Facebook:</strong> <a  rel="noopener"
                  className="underline"
           href="https://www.facebook.com/profile.php?id=61574819005948"
                target="_blank"
@@ -105,15 +105,15 @@ function page() {
               facebook.com/profile.php?id=61574819005948
            </a>
          </li> */}
-            <li> 
+            <li>
               📌 <strong>Pinterest:</strong>{" "}
               <a
                 rel="noopener"
                 className="underline"
-                href="https://in.pinterest.com/WordofMany/"
+                href="https://in.pinterest.com/GuideMyRecipe/"
                 target="_blank"
               >
-                in.pinterest.com/WordofManyBlog/
+                in.pinterest.com/GuideMyRecipeBlog/
               </a>
             </li>
           </ul>
@@ -126,22 +126,22 @@ function page() {
 
           <Image
             src={imgurl}
-            alt="Shreyas M S - Admin of WordofMany"
+            alt="Shreyas M S - Admin of GuideMyRecipe"
             width="200"
             height="200"
             className="my-4"
-          /> 
+          />
 
           <div className="flex items-center gap-4">
             <div>
               <p className="mb-4">
-                <strong>Shreyas M S</strong> - Founder of WordofMany
-              </p> 
+                <strong>Shreyas M S</strong> - Founder of GuideMyRecipe
+              </p>
               <p className="mb-4">
                 Hi, I&rsquo;m Shreyas, a self-taught foodie and tech enthusiast.
-                I built WordofMany to share my love for cooking with the world.
-                Every recipe here is something I&rsquo;ve personally worked on,
-                tasted, and enjoyed.
+                I built GuideMyRecipe to share my love for cooking with the
+                world. Every recipe here is something I&rsquo;ve personally
+                worked on, tasted, and enjoyed.
               </p>
               <p className="mb-4">
                 I hope this website inspires you to try something new in the

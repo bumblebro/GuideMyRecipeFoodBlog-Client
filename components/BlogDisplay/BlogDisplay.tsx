@@ -205,7 +205,7 @@ function BlogDisplay({ decodedslug, currentPost, posts, latposts }: BlogDisp) {
                   {/* <span className="underline p-author ">
                     {currentPost.author}
                   </span> */}{" "}
-                  <span className="underline p-author ">WordofMany</span>
+                  <span className="underline p-author ">GuideMyRecipe</span>
                 </div>
                 <div className=" text-black  dt-published flex gap-2">
                   <h1 className={`${Poppins700.className}`}>Published:</h1>{" "}
@@ -306,7 +306,7 @@ function BlogDisplay({ decodedslug, currentPost, posts, latposts }: BlogDisp) {
                 style={{ width: "100%", height: "auto" }} // optional
                 src={
                   process.env.NODE_ENV === "development"
-                    ? "https://WordofMany.com/api/og?title=Champagne-Fruit-Salad&cover=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEgHus7ANUFIFvLSw3UQb6KuCuD4Ci6ryuCq6PV_0CXwv5l3y7C0HM9eI7Lbdcn-_1M7hLGH6LERkH4g04m0UA54NcZJQKSp5Ah1tKhF0Y8A3rsChbKwLlb7z6-3oqSQQog0gRgePbwTlcw%2Fs1600%2FFruit-Salad-with-Champagne-031-websize-x500.jpg"
+                    ? "https://GuideMyRecipe.com/api/og?title=Champagne-Fruit-Salad&cover=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEgHus7ANUFIFvLSw3UQb6KuCuD4Ci6ryuCq6PV_0CXwv5l3y7C0HM9eI7Lbdcn-_1M7hLGH6LERkH4g04m0UA54NcZJQKSp5Ah1tKhF0Y8A3rsChbKwLlb7z6-3oqSQQog0gRgePbwTlcw%2Fs1600%2FFruit-Salad-with-Champagne-031-websize-x500.jpg"
                     : domain +
                       `/api/og?title=${
                         currentPost.title
@@ -317,7 +317,7 @@ function BlogDisplay({ decodedslug, currentPost, posts, latposts }: BlogDisp) {
                 //   currentPost.title
                 // }&amp;cover=${encodeURIComponent(currentPost.imageurl)}`
                 // }
-                // src="https://WordofMany.com/api/og?title=Champagne-Fruit-Salad&cover=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEgHus7ANUFIFvLSw3UQb6KuCuD4Ci6ryuCq6PV_0CXwv5l3y7C0HM9eI7Lbdcn-_1M7hLGH6LERkH4g04m0UA54NcZJQKSp5Ah1tKhF0Y8A3rsChbKwLlb7z6-3oqSQQog0gRgePbwTlcw%2Fs1600%2FFruit-Salad-with-Champagne-031-websize-x500.jpg"
+                // src="https://GuideMyRecipe.com/api/og?title=Champagne-Fruit-Salad&cover=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEgHus7ANUFIFvLSw3UQb6KuCuD4Ci6ryuCq6PV_0CXwv5l3y7C0HM9eI7Lbdcn-_1M7hLGH6LERkH4g04m0UA54NcZJQKSp5Ah1tKhF0Y8A3rsChbKwLlb7z6-3oqSQQog0gRgePbwTlcw%2Fs1600%2FFruit-Salad-with-Champagne-031-websize-x500.jpg"
                 // style={{ objectFit: "contain" , }}
                 quality={75}
                 alt={currentPost.imagealt}

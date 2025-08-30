@@ -41,14 +41,14 @@ function page() {
         <h2>Effective Date: April 1st, 2024</h2>
         <p>
           These terms and conditions outline the rules and regulations for the
-          use of WordofMany&apos;s Website, located at
-          https://www.WordofMany.com.
+          use of GuideMyRecipe&apos;s Website, located at
+          https://www.GuideMyRecipe.com.
         </p>
 
         <p>
           By accessing this website, we assume you accept these terms and
-          conditions. Do not continue to use WordofMany if you do not agree to
-          all of the terms and conditions stated on this page.
+          conditions. Do not continue to use GuideMyRecipe if you do not agree
+          to all of the terms and conditions stated on this page.
         </p>
 
         <p>
@@ -73,8 +73,8 @@ function page() {
         </h3>
 
         <p>
-          We employ the use of cookies. By accessing WordofMany, you agreed to
-          use cookies in agreement with WordofMany&apos; Privacy Policy.
+          We employ the use of cookies. By accessing GuideMyRecipe, you agreed
+          to use cookies in agreement with GuideMyRecipe&apos; Privacy Policy.
         </p>
 
         <p>
@@ -90,19 +90,19 @@ function page() {
         </h2>
 
         <p>
-          Unless otherwise stated, WordofMany and/or its licensors own the
-          intellectual property rights for all material on WordofMany. All
+          Unless otherwise stated, GuideMyRecipe and/or its licensors own the
+          intellectual property rights for all material on GuideMyRecipe. All
           intellectual property rights are reserved. You may access this from
-          WordofMany for your personal use, subject to restrictions set in these
-          terms and conditions.
+          GuideMyRecipe for your personal use, subject to restrictions set in
+          these terms and conditions.
         </p>
 
         <p>You must not:</p>
         <ul className="list-disc pl-10">
-          <li>Republish material from WordofMany</li>
-          <li>Sell, rent, or sub-license material from WordofMany</li>
-          <li>Reproduce, duplicate, or copy material from WordofMany</li>
-          <li>Redistribute content from WordofMany</li>
+          <li>Republish material from GuideMyRecipe</li>
+          <li>Sell, rent, or sub-license material from GuideMyRecipe</li>
+          <li>Reproduce, duplicate, or copy material from GuideMyRecipe</li>
+          <li>Redistribute content from GuideMyRecipe</li>
         </ul>
 
         <p>
@@ -121,18 +121,18 @@ function page() {
         <p>
           Parts of this website offer an opportunity for users to post and
           exchange opinions and information in certain areas of the website.
-          WordofMany does not filter, edit, publish, or review Comments prior to
-          their presence on the website. Comments do not reflect the views and
-          opinions of WordofMany, its agents, and/or affiliates. Comments
+          GuideMyRecipe does not filter, edit, publish, or review Comments prior
+          to their presence on the website. Comments do not reflect the views
+          and opinions of GuideMyRecipe, its agents, and/or affiliates. Comments
           reflect the views and opinions of the person who posts them. To the
-          extent permitted by applicable laws, WordofMany shall not be liable
+          extent permitted by applicable laws, GuideMyRecipe shall not be liable
           for the Comments or any liability, damages, or expenses caused and/or
           suffered as a result of any use of and/or posting of and/or appearance
           of the Comments on this website.
         </p>
 
         <p>
-          WordofMany reserves the right to monitor all Comments and to remove
+          GuideMyRecipe reserves the right to monitor all Comments and to remove
           any Comments deemed inappropriate, offensive, or in breach of these
           Terms and Conditions.
         </p>

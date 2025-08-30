@@ -57,7 +57,7 @@ export const revalidate = 86400;
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
-    title: "WordofMany | The Latest in Food & Drink Delights",
+    title: "GuideMyRecipe | The Latest in Food & Drink Delights",
   };
 }
 

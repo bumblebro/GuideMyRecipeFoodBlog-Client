@@ -248,11 +248,11 @@ function Navbar3({
                     <h1
                       className={`  tracking-[4px] text-xl   lg:text-[1.7rem] xl:text-[1.7rem] text-center text-[#000000] ${font.className}`}
                     >
-                      WordofMany
+                      GuideMyRecipe
                     </h1>
                     {/* <Image
                       src={logo}
-                      alt="WordofMany logo"
+                      alt="GuideMyRecipe logo"
                       width={100}
                       height={100}
                     ></Image> */}

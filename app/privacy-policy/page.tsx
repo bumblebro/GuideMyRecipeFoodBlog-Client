@@ -35,13 +35,13 @@ function page() {
       {/* <div className="flex flex-col  gap-4 px-4 pb-3 my-[130px] md:my-[105px]   md:max-w-[45rem] mx-auto w-full leading-[1.7rem] font-[330] text-black ">
         <div>
           <h1 className="text-3xl font-extrabold pb-6">
-            Privacy Policy for WordofMany
+            Privacy Policy for GuideMyRecipe
           </h1>
-          <h1>WordofMany Privacy Policy</h1>
+          <h1>GuideMyRecipe Privacy Policy</h1>
           <h2>Effective Date: April 1st, 2024</h2>
           <div className="container mx-auto py-12 text-left">
             <p className="mb-4">
-              Welcome to WordofMany (&quot;we,&quot; &quot;us,&quot;
+              Welcome to GuideMyRecipe (&quot;we,&quot; &quot;us,&quot;
               &quot;our&quot;). This privacy policy outlines our practices
               regarding the collection, use, and disclosure of your information
               when you visit our website. We take your privacy seriously and are
@@ -173,13 +173,16 @@ function page() {
         className={`flex flex-col gap-4 px-4 pb-3 my-[130px] md:my-[105px] md:max-w-[75rem] mx-auto w-full leading-[1.7rem] font-[330] text-black ${Poppins400.className}`}
       >
         <h1 className={`${Poppins700.className} text-3xl pb-4`}>
-          Privacy Policy For WordofMany
+          Privacy Policy For GuideMyRecipe
         </h1>
         <p>
-          WordofMany is a personal blog written and edited by Shreyas M S. For
-          questions about this blog, please contact{" "}
-          <a className="text-[#B2357E]" href="mailto: WordofMany13@gmail.com">
-            WordofMany13@gmail.com
+          GuideMyRecipe is a personal blog written and edited by Shreyas M S.
+          For questions about this blog, please contact{" "}
+          <a
+            className="text-[#B2357E]"
+            href="mailto: GuideMyRecipe13@gmail.com"
+          >
+            GuideMyRecipe13@gmail.com
           </a>
           .
         </p>
@@ -194,8 +197,8 @@ function page() {
         </p>
 
         <p>
-          Please note that WordofMany has financial relationships with some of
-          the merchants mentioned here. WordofMany may be compensated if
+          Please note that GuideMyRecipe has financial relationships with some
+          of the merchants mentioned here. GuideMyRecipe may be compensated if
           consumers choose to utilize the links located throughout the content
           on this site and generate sales for the said merchant.
         </p>
@@ -241,7 +244,7 @@ function page() {
                 href="#h-processing-of-personal-data-by-jo-cooks"
                 data-level="2"
               >
-                Processing of personal data by WordofMany
+                Processing of personal data by GuideMyRecipe
               </a>
             </li>
             <li className="ml-8 underline">
@@ -307,7 +310,7 @@ function page() {
                 href="#h-2-processing-operations-of-personal-data-by-jo-cooks"
                 data-level="2"
               >
-                2. Processing operations of personal data by WordofMany
+                2. Processing operations of personal data by GuideMyRecipe
               </a>
               <ul>
                 <li className="ml-8 underline">
@@ -512,28 +515,31 @@ function page() {
         </h2>
 
         <p>
-          As the owner of this website (WordofMany.com, referred to as the
-          “Site”), WordofMany understands that your privacy is of critical
+          As the owner of this website (GuideMyRecipe.com, referred to as the
+          “Site”), GuideMyRecipe understands that your privacy is of critical
           importance. This Privacy Policy describes what information we collect
           from you via the Site and how we use and disclose such information.
-          {/* WordofMany registered office is at PO Box 32010 Calgary RPO
+          {/* GuideMyRecipe registered office is at PO Box 32010 Calgary RPO
           Silverado, AB, T2X 0X4, and is registered under registration number
           819031790. */}
         </p>
 
         <p>
-          WordofMany acts as data controller for the processing of personal data
-          collected when you visit the Site and use the services provided by
-          WordofMany. By personal data we mean all information that identifies
-          you or can directly or indirectly identify you
+          GuideMyRecipe acts as data controller for the processing of personal
+          data collected when you visit the Site and use the services provided
+          by GuideMyRecipe. By personal data we mean all information that
+          identifies you or can directly or indirectly identify you
           <a>(e.g. name, birthday, postal code, address, IP address, etc.)</a>.
         </p>
 
         <p>
           If you have any questions about this Privacy Policy, or the practices
           of this Site, please contact us at&nbsp;
-          <a className="text-[#B2357E]" href="mailto: WordofMany13@gmail.com">
-            <strong> WordofMany13@gmail.com</strong>
+          <a
+            className="text-[#B2357E]"
+            href="mailto: GuideMyRecipe13@gmail.com"
+          >
+            <strong> GuideMyRecipe13@gmail.com</strong>
           </a>
           <strong>.</strong>
         </p>
@@ -542,14 +548,15 @@ function page() {
           className={`text-2xl ${Poppins700.className} wp-block-heading`}
           id="h-processing-of-personal-data-by-jo-cooks"
         >
-          Processing of personal data by WordofMany
+          Processing of personal data by GuideMyRecipe
         </h2>
 
         <p>
           In this section you will find further information about the processing
-          of personal data by WordofMany. We classNameify this information under
-          headings by the type of services that may be used on our website. In
-          practice, several of these services may be provided at the same time.
+          of personal data by GuideMyRecipe. We classNameify this information
+          under headings by the type of services that may be used on our
+          website. In practice, several of these services may be provided at the
+          same time.
         </p>
 
         <h2
@@ -567,17 +574,17 @@ function page() {
         </h3>
 
         <p>
-          WordofMany does not sell the personal data of its visitors/users
-          (except for the case where WordofMany would choose or be forced to
+          GuideMyRecipe does not sell the personal data of its visitors/users
+          (except for the case where GuideMyRecipe would choose or be forced to
           sell its business or assets (see further)).
         </p>
 
         <p>
-          However, WordofMany reserves the right to share the personal data with
-          third parties solely for the purpose of providing its online services.
-          WordofMany contractually ensures that the necessary measures for the
-          security and confidentiality of personal data processed on its behalf
-          by third parties are taken.
+          However, GuideMyRecipe reserves the right to share the personal data
+          with third parties solely for the purpose of providing its online
+          services. GuideMyRecipe contractually ensures that the necessary
+          measures for the security and confidentiality of personal data
+          processed on its behalf by third parties are taken.
         </p>
 
         <p>
@@ -636,14 +643,14 @@ function page() {
         </ul>
 
         <p>
-          WordofMany shares data with third parties established in third
-          countries such as the USA. WordofMany ensures that the third-party
+          GuideMyRecipe shares data with third parties established in third
+          countries such as the USA. GuideMyRecipe ensures that the third-party
           recipients in such third countries ensure that the personal data which
           is transferred to them will enjoy a comparable level of protection as
-          the level of protection offered by WordofMany in Canada<a>,</a> e.g.
-          by using legally approved mechanisms, such as Standard Contractual
-          Clauses or adequacy decisions, to ensure that your data is afforded an
-          equivalent level of protection.
+          the level of protection offered by GuideMyRecipe in Canada<a>,</a>{" "}
+          e.g. by using legally approved mechanisms, such as Standard
+          Contractual Clauses or adequacy decisions, to ensure that your data is
+          afforded an equivalent level of protection.
         </p>
 
         <ul className="wp-block-list list-disc ml-6">
@@ -653,10 +660,10 @@ function page() {
         <p>
           If you are a resident of a country in the European Economic Area
           (EEA), subject to the General Data Protection Regulation, it is of
-          note that WordofMany is established in Canada. Pursuant to an adequacy
-          decision taken based on article 45 GDPR, Canada ensures an adequate
-          level of protection of personal data, comparable to the level of
-          protection offered by EU law.
+          note that GuideMyRecipe is established in Canada. Pursuant to an
+          adequacy decision taken based on article 45 GDPR, Canada ensures an
+          adequate level of protection of personal data, comparable to the level
+          of protection offered by EU law.
         </p>
 
         <h3
@@ -676,7 +683,7 @@ function page() {
         <p>
           Where government bodies (including
           judicial/administrative/investigative courts) should request personal
-          data, WordofMany may also be obliged to share such data with them.
+          data, GuideMyRecipe may also be obliged to share such data with them.
         </p>
 
         <h3
@@ -724,7 +731,7 @@ function page() {
           <li>Unsubscribing from the newsletter</li>
 
           <li>
-            By contacting us at WordofMany13@gmail.com or by post at PO Box
+            By contacting us at GuideMyRecipe13@gmail.com or by post at PO Box
             32010 Calgary RPO Silverado, AB, T2X 0X4.
           </li>
         </ul>
@@ -733,7 +740,7 @@ function page() {
           className={`text-2xl ${Poppins700.className} wp-block-heading`}
           id="h-2-processing-operations-of-personal-data-by-jo-cooks"
         >
-          2. Processing operations of personal data by WordofMany
+          2. Processing operations of personal data by GuideMyRecipe
         </h2>
 
         <h3
@@ -766,7 +773,7 @@ function page() {
 
         <p>
           <strong>Legal basis</strong>: processing is necessary for the
-          legitimate interests pursued by WordofMany (Art. 6, §1, f) of the
+          legitimate interests pursued by GuideMyRecipe (Art. 6, §1, f) of the
           GDPR).
         </p>
 
@@ -819,8 +826,8 @@ function page() {
 
         <p>
           <strong>Legal basis</strong>: processing is necessary for the
-          execution of the contract you conclude with WordofMany (Art. 6, §1, b)
-          of the GDPR).
+          execution of the contract you conclude with GuideMyRecipe (Art. 6, §1,
+          b) of the GDPR).
         </p>
 
         <p>
@@ -948,8 +955,8 @@ function page() {
 
         <p>
           <strong>Legal basis</strong>: processing is necessary for the
-          execution of the contract you conclude with WordofMany (Art. 6, §1, b)
-          of the GDPR).
+          execution of the contract you conclude with GuideMyRecipe (Art. 6, §1,
+          b) of the GDPR).
         </p>
 
         <p>
@@ -984,9 +991,9 @@ function page() {
         </h3>
 
         <p>
-          If you order something from WordofMany, we collect your shopping data.
-          Depending on the type of purchase and processing status, shopping data
-          may include the following information:
+          If you order something from GuideMyRecipe, we collect your shopping
+          data. Depending on the type of purchase and processing status,
+          shopping data may include the following information:
         </p>
 
         <ul className="wp-block-list">
@@ -1022,8 +1029,8 @@ function page() {
 
         <p>
           <strong>Legal basis</strong>: processing is necessary for the
-          execution of the contract you conclude with WordofMany (Art. 6, §1, b)
-          of the GDPR).
+          execution of the contract you conclude with GuideMyRecipe (Art. 6, §1,
+          b) of the GDPR).
         </p>
 
         <p>
@@ -1044,9 +1051,12 @@ function page() {
           parents/legal guardians, we will delete said data from our database as
           soon as possible (in accordance with Article 8 GDPR). If you believe
           that we may have collected information on a minor under the age of 18,
-          please contact WordofMany at the following address:{" "}
-          <a className="text-[#B2357E]" href="mailto: WordofMany13@gmail.com">
-            <strong> WordofMany13@gmail.com</strong>
+          please contact GuideMyRecipe at the following address:{" "}
+          <a
+            className="text-[#B2357E]"
+            href="mailto: GuideMyRecipe13@gmail.com"
+          >
+            <strong> GuideMyRecipe13@gmail.com</strong>
           </a>
           <strong>.</strong>
         </p>
@@ -1126,7 +1136,7 @@ function page() {
         </h2>
 
         <p>
-          WordofMany respects the privacy of its users and only shares
+          GuideMyRecipe respects the privacy of its users and only shares
           information in specific circumstances. We make your information
           available to other companies, applications or individuals in the
           following circumstances:
@@ -1213,30 +1223,33 @@ function page() {
         </h2>
 
         <p>
-          WordofMany takes all necessary technical and organizational measures
-          to safeguard and protect your personal data against accidental or
-          deliberate destruction, loss, unauthorized modification, disclosure or
-          access, and against any other unlawful processing of the personal data
-          in its control, which it monitors on a regular basis. However, despite
-          WordofMany’ good faith efforts to store its users’ personal data in a
-          secure operating environment that is not open to the public, it should
-          be noted that complete or perfect security does not exist, and
-          WordofMany cannot guarantee that there will be no accidental
-          disclosure of your personal data. Users must immediately notify Savory
-          Touch if their details are lost, stolen or used without their
-          permission. In such an event, we will remove your details from your
-          account and update our records accordingly.
+          GuideMyRecipe takes all necessary technical and organizational
+          measures to safeguard and protect your personal data against
+          accidental or deliberate destruction, loss, unauthorized modification,
+          disclosure or access, and against any other unlawful processing of the
+          personal data in its control, which it monitors on a regular basis.
+          However, despite GuideMyRecipe’ good faith efforts to store its users’
+          personal data in a secure operating environment that is not open to
+          the public, it should be noted that complete or perfect security does
+          not exist, and GuideMyRecipe cannot guarantee that there will be no
+          accidental disclosure of your personal data. Users must immediately
+          notify Savory Touch if their details are lost, stolen or used without
+          their permission. In such an event, we will remove your details from
+          your account and update our records accordingly.
         </p>
 
         <p>
           When visitors/users send information to the Siteby filling in the
           online e-mail forms in order to respond to a request or benefit from a
-          service provided by WordofMany, this information must be correct and
-          accurate. Any information provided by visitors/users in order to
+          service provided by GuideMyRecipe, this information must be correct
+          and accurate. Any information provided by visitors/users in order to
           satisfy their request is considered confidential and transferred only
           to the party directly concerned, and to the competent authorities
           according to the law in the event that the use made contravenes the{" "}
-          <a className="text-[#B2357E]" href="mailto: WordofMany13@gmail.com">
+          <a
+            className="text-[#B2357E]"
+            href="mailto: GuideMyRecipe13@gmail.com"
+          >
             Site
           </a>
           <strong> </strong>terms of use and existing applicable legislation in
@@ -1244,12 +1257,12 @@ function page() {
           use of the Site by a visitor/user violates its operating rules. In
           such a case, all data concerning said visitor/user, as well as their
           IP address, may form part of an investigation, insofar as this is
-          necessary to protect WordofMany’ rights. In the event that data is
+          necessary to protect GuideMyRecipe’ rights. In the event that data is
           sent to the Site, such data must not be contrary to applicable law and
           principles of morality concerning the use of the Internet in general,
           and it must not be modified by the visitor/user who publishes it or by
           other persons with his or her knowledge. This data may be used by Jo
-          Cooks without any claim against WordofMany by the visitor/user who
+          Cooks without any claim against GuideMyRecipe by the visitor/user who
           provided it. Each visitor/user is responsible for his/her use of the
           Site may only use its services for lawful and legitimate purposes. The
           visitor/user is not permitted to use the Site in a manner that could
@@ -1257,7 +1270,7 @@ function page() {
           that interferes with the use and enjoyment of the Site by any other
           visitor/user. Visitors/users are also prohibited from creating false
           accounts with fraudulent intent and from collecting or storing the
-          personal data of other users in any manner whatsoever. WordofMany
+          personal data of other users in any manner whatsoever. GuideMyRecipe
           reserves the right to pursue claims for any damages caused by the
           violation of the aforementioned prohibitions by visitors/users and to
           take any legal action, proceedings and judicial and extrajudicial
@@ -1265,8 +1278,8 @@ function page() {
         </p>
 
         <p>
-          WordofMany reserves the right to take, by way of example but limited
-          thereto, the following measures: (a) record and store all
+          GuideMyRecipe reserves the right to take, by way of example but
+          limited thereto, the following measures: (a) record and store all
           communications between visitors/users and the Site, (b) investigate
           any complaints made in the event that a communication does not comply
           with its terms of use, and decide to remove or require the removal of
@@ -1335,17 +1348,20 @@ function page() {
         </ul>
 
         <p>
-          To exercise your rights, please send a written request to WordofMany
-          at the following e-mail address:{" "}
-          <a className="text-[#B2357E]" href="mailto: WordofMany13@gmail.com">
-            <strong> WordofMany13@gmail.com</strong>
+          To exercise your rights, please send a written request to
+          GuideMyRecipe at the following e-mail address:{" "}
+          <a
+            className="text-[#B2357E]"
+            href="mailto: GuideMyRecipe13@gmail.com"
+          >
+            <strong> GuideMyRecipe13@gmail.com</strong>
           </a>
           , or at the following postal address: PO Box 32010 Calgary RPO
           Silverado, AB, T2X 0X4.
         </p>
 
         <p>
-          WordofMany undertakes to provide you with automated means of
+          GuideMyRecipe undertakes to provide you with automated means of
           exercising your rights, insofar as this is technically possible, and
           to respond to your requests free of charge, unless your requests are
           frequently repeated and entail administrative costs for us due to
@@ -1353,15 +1369,15 @@ function page() {
           Touch will make every effort to respond to any relevant request you
           make within thirty (30) days of receipt. However, if the complexity of
           your request or the volume of information makes it impossible to
-          respond to your request within thirty days, WordofMany will inform you
-          in writing within that period of the reasons for the delay and will
-          make every effort to respond to your request as soon as possible, and
-          in any event within a maximum of two further months.
+          respond to your request within thirty days, GuideMyRecipe will inform
+          you in writing within that period of the reasons for the delay and
+          will make every effort to respond to your request as soon as possible,
+          and in any event within a maximum of two further months.
         </p>
 
         <p>
-          WordofMany reserves the right not to respond to your request if it is
-          deemed manifestly unfounded or excessive and will inform you of the
+          GuideMyRecipe reserves the right not to respond to your request if it
+          is deemed manifestly unfounded or excessive and will inform you of the
           reasons why your request will not be met.
         </p>
 
@@ -1693,7 +1709,7 @@ function page() {
         <p>
           If you have any questions about this Cookie Policy, or the practices
           of this Site, please contact us at{" "}
-          <strong> WordofMany13@gmail.com.</strong>
+          <strong> GuideMyRecipe13@gmail.com.</strong>
         </p>
       </div>
     </>

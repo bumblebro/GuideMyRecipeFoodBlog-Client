@@ -115,21 +115,24 @@ function Footer() {
             >
               <FacebookIcon size={32} round={true} />
             </a>{" "}
-            <a href="https://in.pinterest.com/WordofManyBlog/" target="_blank">
+            <a
+              href="https://in.pinterest.com/GuideMyRecipeBlog/"
+              target="_blank"
+            >
               {" "}
               <PinterestIcon size={32} round={true} />
             </a>
           </div>
         </div>
         {/* <p className={`font-light text-sm italic px-4 text-center text-[#000000] ${freight.className}`}>
-          WordofMany offers general content intended solely for informational
+          GuideMyRecipe offers general content intended solely for informational
           purposes. The information provided on this site is not a substitute
           for professional nutritional, dietary, or culinary advice. Always seek
           the advice of qualified professionals regarding any dietary concerns,
           health conditions, or food-related decisions.
         </p> */}
         <p className="font-light text-sm  xl:w-[50%] text-center mx-auto text-[#000000] uppercase">
-          © 2025 WordofMany. All Rights Reserved.
+          © 2025 GuideMyRecipe. All Rights Reserved.
         </p>
       </div>
     </div>

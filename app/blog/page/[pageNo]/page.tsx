@@ -81,7 +81,7 @@ export async function generateMetadata({ params }: params): Promise<Metadata> {
     metadataBase: new URL(`${process.env.NEXT_PUBLIC_BASE_API_URL}`),
     title: `Blog - Page ${params.pageNo}`,
     description:
-      "Enjoy access to the complete archive of WordofMany's articles—every post and every page we've ever published, all dedicated to food and drink.",
+      "Enjoy access to the complete archive of GuideMyRecipe's articles—every post and every page we've ever published, all dedicated to food and drink.",
     alternates: {
       canonical: `/blog/page/${params.pageNo}`,
     },

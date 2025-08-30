@@ -54,22 +54,22 @@ export default function StructuredData({
     "@type": "WebSite",
     "@id": `${siteURL}#website`,
     url: siteURL,
-    name: "WordofMany",
+    name: "GuideMyRecipe",
     description:
       "Your ultimate destination for food recipes and cooking inspiration",
     publisher: {
       "@type": "Organization",
       "@id": `${siteURL}#organization`,
-      name: "WordofMany",
+      name: "GuideMyRecipe",
       logo: {
         "@type": "ImageObject",
         url: `${siteURL}/favicon.ico`,
       },
       sameAs: [
-        "https://www.facebook.com/WordofMany",
-        "https://www.instagram.com/WordofMany",
-        "https://www.pinterest.com/WordofMany",
-        "https://twitter.com/WordofMany",
+        "https://www.facebook.com/GuideMyRecipe",
+        "https://www.instagram.com/GuideMyRecipe",
+        "https://www.pinterest.com/GuideMyRecipe",
+        "https://twitter.com/GuideMyRecipe",
       ],
     },
   };
@@ -182,7 +182,7 @@ export default function StructuredData({
     publisher: {
       "@type": "Organization",
       "@id": `${siteURL}#organization`,
-      name: "WordofMany",
+      name: "GuideMyRecipe",
       logo: {
         "@type": "ImageObject",
         url: `${siteURL}/favicon.ico`,
@@ -247,7 +247,7 @@ export default function StructuredData({
     },
     author: {
       "@type": "Person",
-      name: "WordofMany Community",
+      name: "GuideMyRecipe Community",
     },
     datePublished: post.creationDate,
     reviewBody: `This ${DeSlugify(

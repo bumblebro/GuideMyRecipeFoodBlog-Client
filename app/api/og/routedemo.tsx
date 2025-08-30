@@ -215,7 +215,7 @@
 // //           fontFamily: "source-sans-pro.extralight",
 // //         }}
 // //       >
-// //         WordofMany.com
+// //         GuideMyRecipe.com
 // //       </div>
 // //       <img
 // //         src={cover}
@@ -460,7 +460,7 @@
 //           fontFamily: "source-sans-pro.extralight",
 //         }}
 //       >
-//         WordofMany.com
+//         GuideMyRecipe.com
 //       </div>
 //       <div
 //         style={{

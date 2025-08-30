@@ -127,7 +127,7 @@ export async function GET(req: NextRequest) {
       const fullTitle = DeSlugify(title).toUpperCase();
       const tag = (searchParams.get("tag") || "SINGLE").toUpperCase();
       const site = (
-        searchParams.get("website") || "WOrdofmany.COM"
+        searchParams.get("website") || "GuideMyRecipe.COM"
       ).toUpperCase();
 
       return (
@@ -281,7 +281,7 @@ export async function GET(req: NextRequest) {
       const topTag = words.slice(0, 2).join(" ").toUpperCase(); // e.g., AIR FRYER
       const big = words.slice(2).join(" ").toUpperCase() || "DUCK BREAST";
       const site = (
-        searchParams.get("website") || "WORDOFMANY.COM"
+        searchParams.get("website") || "GuideMyRecipe.COM"
       ).toUpperCase();
 
       return (
@@ -407,7 +407,7 @@ export async function GET(req: NextRequest) {
                 }}
               >
                 {(
-                  searchParams.get("website") || "WORDOFMANY.COM"
+                  searchParams.get("website") || "GuideMyRecipe.COM"
                 ).toUpperCase()}
               </span>
             </div>
@@ -417,7 +417,7 @@ export async function GET(req: NextRequest) {
     })(),
     (() => {
       const site = (
-        searchParams.get("website") || "WORDOFMANY.COM"
+        searchParams.get("website") || "GuideMyRecipe.COM"
       ).toUpperCase();
 
       // Title parsing:
@@ -589,7 +589,7 @@ export async function GET(req: NextRequest) {
     })(),
     (() => {
       const site = (
-        searchParams.get("website") || "WORDOFMANY.COM"
+        searchParams.get("website") || "GuideMyRecipe.COM"
       ).toUpperCase();
 
       // Title parsing: first word => pill, last word => black line, middle => red line
@@ -764,7 +764,7 @@ export async function GET(req: NextRequest) {
     })(),
     (() => {
       const site = (
-        searchParams.get("website") || "WORDOFMANY.COM"
+        searchParams.get("website") || "GuideMyRecipe.COM"
       ).toUpperCase();
 
       // Colors close to your reference
@@ -990,7 +990,7 @@ export async function GET(req: NextRequest) {
     (() => {
       // dynamic website (optional)
       const site = (
-        searchParams.get("website") || "WORDOFMANY.COM"
+        searchParams.get("website") || "GuideMyRecipe.COM"
       ).toUpperCase();
 
       // split title into script and block text
@@ -1182,7 +1182,7 @@ export async function GET(req: NextRequest) {
     })(),
     (() => {
       const site = (
-        searchParams.get("website") || "WORDOFMANY.COM"
+        searchParams.get("website") || "GuideMyRecipe.COM"
       ).toUpperCase();
 
       // Split the title: first word on its own; remainder together
@@ -1340,7 +1340,7 @@ export async function GET(req: NextRequest) {
     })(),
     (() => {
       const site = (
-        searchParams.get("website") || "WORDOFMANY.COM"
+        searchParams.get("website") || "GuideMyRecipe.COM"
       ).toUpperCase();
 
       // Split title: first two words → label, rest → big text
@@ -1500,7 +1500,7 @@ export async function GET(req: NextRequest) {
     })(),
     (() => {
       const site = (
-        searchParams.get("website") || "WORDOFMANY.COM"
+        searchParams.get("website") || "GuideMyRecipe.COM"
       ).toUpperCase();
 
       // Split title: first two words → tagline; rest → main headline
@@ -1654,7 +1654,7 @@ export async function GET(req: NextRequest) {
     })(),
     (() => {
       const site = (
-        searchParams.get("website") || "WORDOFMANY.COM"
+        searchParams.get("website") || "GuideMyRecipe.COM"
       ).toUpperCase();
 
       // Split title: first two words → script tagline; rest → main headline
