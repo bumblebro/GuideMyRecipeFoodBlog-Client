@@ -45,6 +45,18 @@ const boardId = {
   "Low-Calorie-Meals": "708683760053913614", // Low Calorie Meals
   "High-Protein-Recipes": "708683760053913615", // High Protein Recipes
   "Meal-Prep": "708683760053913616", // Meal Prep
+  "Desserts-and-Cookies": "708683760053913621",
+  "Cold-Pasta-Salad-Recipes": "708683760053913624",
+  "Rhubarb-Desserts": "708683760053913625",
+  "Layer-Cakes": "708683760053913633",
+  "Healthy-Summer-Dinners": "708683760053913634",
+  "Breakfast-Ideas": "708683760053913635",
+  "Gluten-Free": "708683760053913636",
+  "Dinner-Ideas": "708683760053913637",
+  "Father's-Day": "708683760053913638",
+  "Pork-Recipes": "708683760053913639",
+  "Lunch-Ideas": "708683760053913640",
+  "Memorial-Day": "708683760053913641",
 };
 
 export const dynamic = "force-dynamic";
