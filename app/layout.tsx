@@ -47,7 +47,7 @@ export default function RootLayout({
             strategy="afterInteractive"
           ></Script>
         )} */}
-        <AdsenseScript />
+        {/*  <AdsenseScript /> */}
         {/* <script
           data-grow-initializer=""
           dangerouslySetInnerHTML={{
@@ -79,7 +79,7 @@ export default function RootLayout({
         <Footer />
       </body>
       {process.env.NODE_ENV == "production" && (
-        <GoogleAnalytics gaId="G-GR0NLTCFVB" />
+        <GoogleAnalytics gaId="G-X18BDWVHGK" />
       )}
 
       {/*       <GoogleAnalytics gaId="G-GR0NLTCFVB" /> */}
