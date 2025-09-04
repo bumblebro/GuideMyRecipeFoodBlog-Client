@@ -291,7 +291,7 @@ function BlogDisplay({ decodedslug, currentPost, posts, latposts }: BlogDisp) {
               </a>
             </div>
           </div> */}
-          <div className=" flex flex-col gap-2 mx-4 lg:mx-28 mt-8 mb-4">
+          {/* <div className=" flex flex-col gap-2 mx-4 lg:mx-28 mt-8 mb-4">
             <div
               // className=" h-[17rem]  md:h-[21rem] lg:h-[31.5rem] xl:h-[39.5rem] sm:h-[28.5rem] 2xl:h-[38rem] relative w-full object-contain"
               className=" h-auto   relative w-full "
@@ -348,7 +348,7 @@ function BlogDisplay({ decodedslug, currentPost, posts, latposts }: BlogDisp) {
                 📌 Pin Recipe
               </button>
             </a>
-          </div>
+          </div> */}
           {/* <div className="flex justify-center my-6">
             {" "}
             <a
