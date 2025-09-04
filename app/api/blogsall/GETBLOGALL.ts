@@ -22,7 +22,7 @@
 //   return blogs;
 // }
 
-import { prisma } from "@/lib/prisma"; // 👈 use singleton Prisma client
+import { prisma } from "@/libs/prisma";
 import { withAccelerate } from "@prisma/extension-accelerate";
 
 export default async function GETBLOGALL(page = 0, pageSize = 100) {
