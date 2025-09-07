@@ -31,6 +31,7 @@ import PinComponent from "../PinComponent";
 import { DisplayAdUnit } from "../Ads/ad-unit";
 import AdContainerForDesktop from "../Ads/AdContainerForDesktop";
 import AdContainerForMobile from "../Ads/AdContainerForMobile";
+import AffiliateComponent from "../AffiliateComponent";
 // import GoogleAdUnit from "../GoogleAdUnit";
 // Poppins
 const Poppins700 = Poppins({
@@ -380,6 +381,7 @@ function BlogDisplay({ decodedslug, currentPost, posts, latposts }: BlogDisp) {
             }
             description={currentPost.recipedescription}
           /> */}
+          <AffiliateComponent />
           <DisplayAdUnit format="auto" />
           {currentPost.content?.map((item, i) => {
             const contentItem = item as ContentItem;
