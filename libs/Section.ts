@@ -521,4 +521,7 @@ export const subSections = {
       "Freezer-Friendly-Meals",
     ],
   },
+  Others: {
+    Others: ["Others"],
+  },
 };
